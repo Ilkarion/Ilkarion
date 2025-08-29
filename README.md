@@ -1,21 +1,15 @@
+# Hi, I'm Illia 👋
+### Frontend Developer | React • Next.js • TypeScript  
 
-# Hi,
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-one-gilt-66.vercel.app/)
 
-My GitHub repository contain many interesting projects. I'd love to share it with you:
+> 🚀 Polished UI with **Tailwind**, dark/light themes, and **i18n**  
+> 🔐 Data & auth with **Supabase**; deployments on **Vercel**  
+> ⚡ Focus on accessibility, performance, and clean, readable code  
 
+---
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-one-gilt-66.vercel.app/)
-
-
-Polished UI with **Tailwind**, dark/light themes, and **i18n**
-
-Data & auth with **Supabase**; deployments on **Vercel**
-
-Focus on accessibility, performance, and readable code
-
-## 🔹 Tech stack
-React -- Next.js -- TypeScript -- Tailwind CSS -- i18n (next-intl / next-i18next) -- Supabase -- Vercel
-
+## 🔹 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -25,14 +19,16 @@ React -- Next.js -- TypeScript -- Tailwind CSS -- i18n (next-intl / next-i18next
   <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ilkarion&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilkarion&layout=compact&theme=tokyonight" />
+</p>
 
-## Statistic
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ilkarion&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilkarion&layout=compact&theme=tokyonight)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/illia-lariushyn-6a9314272/)
-
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/illia-lariushyn-6a9314272/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work2006success@gmail.com)
-
