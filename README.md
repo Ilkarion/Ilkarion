@@ -10,7 +10,7 @@ Currently exploring advanced **Next.js patterns**, **Supabase**, and scalable UI
 
 ### 🌌 [NovaSphere](https://github.com/Ilkarion/NovaSphere)  
 Interactive encyclopedia powered by **Next.js + Supabase**  
-- 🔍 AI-powered search across topics  
+- 🔍 Search across topics  
 - 🌙 Light/Dark theme  
 - 📖 Responsive UI focused on readability  
 - 🎓 Learned: structuring fullstack apps, Supabase auth & DB, SCSS modules  
