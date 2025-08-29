@@ -5,4 +5,4 @@ My statistic:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilkarion&theme=transparent)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={Ilkarion}&theme={transparent}&exclude={html,css,javascript,typescript,python})
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilkarion)](https://github.com/Ilkarion/github-readme-stats)
