@@ -5,4 +5,4 @@ My statistic:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilkarion&theme=transparent)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilkarion&langs_count=8)](https://github.com/Ilkarion/github-readme-stats)
+[![Ilkarion's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ilkarion)](https://github.com/Ilkarion/github-readme-stats)
