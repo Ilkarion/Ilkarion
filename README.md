@@ -10,10 +10,9 @@ Currently exploring advanced **Next.js patterns**, **Supabase**, and scalable UI
 
 ### 🌌 [NovaSphere](https://github.com/Ilkarion/NovaSphere)  
 Interactive encyclopedia powered by **Next.js + Supabase**  
-- 🔍 Search across topics  
-- 🌙 Light/Dark theme  
+- 🔍 Search across topics   
 - 📖 Responsive UI focused on readability  
-- 🎓 Learned: structuring fullstack apps, Supabase auth & DB, SCSS modules  
+- 🎓 Learned: Supabase auth & DB, SCSS modules  
 
 ### ✨ [Animated Background (Dots & Lines)](https://github.com/Ilkarion/animated-fon-dots-lines)  
 Lightweight animated background with **Canvas + JS**  
