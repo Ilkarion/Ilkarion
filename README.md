@@ -42,12 +42,14 @@ The project includes dynamic animated components that can be used in user interf
 **masterComponent** is a UI component repository forked from an existing TS collection.  
 It contains reusable styled components and layout blocks to speed up interface development.
 
-🔧 **Tech:** TypeScript, component architecture  
+🔧 **Tech:** TypeScript, component architecture, React.js
 [Repository Link](https://github.com/Ilkarion/masterComponent)
+
+[DEMO-TRY](https://master-component.vercel.app/)
 
 ---
 
-## 📌 Summary (for HR / Recruiters)
+## 📌 Summary
 I focus on **modern frontend development**, including:
 - Responsive interfaces and animations  
 - State management and API communications  
