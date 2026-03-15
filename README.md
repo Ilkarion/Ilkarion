@@ -33,6 +33,8 @@ The project includes dynamic animated components that can be used in user interf
 🔧 **Tech:** TypeScript, GSAP & CSS animations, React.js 
 [Repository Link](https://github.com/Ilkarion/random_animation)
 
+[DEMO-TRY](https://random-animation-ecru.vercel.app/)
+
 ✨ Great example of mastering animation logic, DOM manipulation, rendering performance.
 ---
 
