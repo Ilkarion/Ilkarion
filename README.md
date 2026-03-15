@@ -18,7 +18,9 @@ I’m passionate about building **fast, clean, human-centered web apps**.
 🔧 **Tech:** Next.js (React), TypeScript, Zustand, SCSS, Supabase backend, Node/Express, Vercel/Render deployment  
 [Repository Link](https://github.com/Ilkarion/diary_cosmic)
 
-[DEMO](https://www.youtube.com/watch?v=MtsiEauloEs)
+[DEMO-WATCH](https://www.youtube.com/watch?v=MtsiEauloEs)
+
+[DEMO-TRY](diary-cosmic-liard.vercel.app)
 
 ✨ This project demonstrates real‑world frontend architecture, API interaction, state management, UI/UX design and database integration.
 
