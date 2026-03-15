@@ -18,7 +18,7 @@ I’m passionate about building **fast, clean, human-centered web apps**.
 🔧 **Tech:** Next.js (React), TypeScript, Zustand, SCSS, Supabase backend, Node/Express, Vercel/Render deployment  
 [Repository Link](https://github.com/Ilkarion/diary_cosmic)
 
-✨ This project demonstrates real‑world frontend architecture, API interaction, state management, UI/UX design and database integration — skills needed for Junior Frontend roles.
+✨ This project demonstrates real‑world frontend architecture, API interaction, state management, UI/UX design and database integration.
 
 ---
 
@@ -26,21 +26,18 @@ I’m passionate about building **fast, clean, human-centered web apps**.
 **Random Animation** is a frontend visualization library focusing on smooth, visually appealing animations.  
 The project includes dynamic animated components that can be used in user interfaces to enhance user engagement, such as interactive particle effects and procedural animations.
 
-🔧 **Tech:** JavaScript, CSS animations, HTML canvas  
+🔧 **Tech:** TypeScript, GSAP & CSS animations, React.js 
 [Repository Link](https://github.com/Ilkarion/random_animation)
 
-✨ Great example of mastering animation logic, DOM manipulation, rendering performance — essential skills for interactive frontend development.
-
+✨ Great example of mastering animation logic, DOM manipulation, rendering performance.
 ---
 
-### 🧩 masterComponent *(Optional)*
+### 🧩 masterComponent
 **masterComponent** is a UI component repository forked from an existing TS collection.  
 It contains reusable styled components and layout blocks to speed up interface development.
 
 🔧 **Tech:** TypeScript, component architecture  
 [Repository Link](https://github.com/Ilkarion/masterComponent)
-
-💡 **Include it only if you have made meaningful custom changes**. If you haven’t added your own components or improvements, it may not highlight your skills strongly for a Frontend Developer role.
 
 ---
 
