@@ -1,37 +1,55 @@
 # Hi, I'm Illia 👋  
-### Frontend Developer | React • Next.js • TypeScript  
+### Frontend Developer | React • Next.js • TypeScript  • Node.js  • Supabase  
 
 I’m passionate about building **fast, clean, human-centered web apps**.  
-Currently exploring advanced **Next.js patterns**, **Supabase**, and scalable UI design.  
+
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌌 [NovaSphere](https://github.com/Ilkarion/NovaSphere)  
-Interactive encyclopedia powered by **Next.js + Supabase**  
-- 🔍 Search across topics   
-- 📖 Responsive UI focused on readability  
-- 🎓 Learned: Supabase auth & DB, SCSS modules  
+### 📘 Diary Cosmic
+**Diary Cosmic** is a full‑stack personal diary app with mood tracking, an interactive map of entries, and analytics. It showcases modern frontend + backend practices, including:
+- User authentication (signup/login/email verification)
+- Create and manage diary entries with tags, moods and map locations
+- Mood statistics and emotional trends visualization
+- Responsive UI with theme switching and internationalization
 
-### ✨ [Animated Background (Dots & Lines)](https://github.com/Ilkarion/animated-fon-dots-lines)  
-Lightweight animated background with **Canvas + JS**  
-- 🌐 Dynamic dots connected by lines  
-- 🎨 Smooth animation (requestAnimationFrame)  
-- 🎓 Learned: performance optimizations, reusable UI effects  
+🔧 **Tech:** Next.js (React), TypeScript, Zustand, SCSS, Supabase backend, Node/Express, Vercel/Render deployment  
+[Repository Link](https://github.com/Ilkarion/diary_cosmic)
 
-### 🧩 [Master Component](https://github.com/Ilkarion/masterComponent)  
-Reusable React components library  
-- 📦 Clean & customizable UI components  
-- 🎛️ Configurable with props  
-- 🎓 Learned: scalable UI library patterns, TypeScript safety  
+✨ This project demonstrates real‑world frontend architecture, API interaction, state management, UI/UX design and database integration — skills needed for Junior Frontend roles.
 
-### 🎮 [Underwatch](https://github.com/Ilkarion/underwatch)  
-Gaming-themed platform with **Next.js + i18n**  
-- 🌍 Multi-language support (next-intl)  
-- 🌙 Dark/Light mode  
-- 🎓 Learned: i18n setup, theme management, production deployments  
+---
 
+### 🎨 Random Animation
+**Random Animation** is a frontend visualization library focusing on smooth, visually appealing animations.  
+The project includes dynamic animated components that can be used in user interfaces to enhance user engagement, such as interactive particle effects and procedural animations.
+
+🔧 **Tech:** JavaScript, CSS animations, HTML canvas  
+[Repository Link](https://github.com/Ilkarion/random_animation)
+
+✨ Great example of mastering animation logic, DOM manipulation, rendering performance — essential skills for interactive frontend development.
+
+---
+
+### 🧩 masterComponent *(Optional)*
+**masterComponent** is a UI component repository forked from an existing TS collection.  
+It contains reusable styled components and layout blocks to speed up interface development.
+
+🔧 **Tech:** TypeScript, component architecture  
+[Repository Link](https://github.com/Ilkarion/masterComponent)
+
+💡 **Include it only if you have made meaningful custom changes**. If you haven’t added your own components or improvements, it may not highlight your skills strongly for a Frontend Developer role.
+
+---
+
+## 📌 Summary (for HR / Recruiters)
+I focus on **modern frontend development**, including:
+- Responsive interfaces and animations  
+- State management and API communications  
+- Full‑stack awareness (integration with backend & database)  
+- Clean code with TypeScript and component‑based architecture
 ---
 
 ## 🛠 Tech Stack
