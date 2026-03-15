@@ -20,7 +20,7 @@ I’m passionate about building **fast, clean, human-centered web apps**.
 
 [DEMO-WATCH](https://www.youtube.com/watch?v=MtsiEauloEs)
 
-[DEMO-TRY](diary-cosmic-liard.vercel.app)
+[DEMO-TRY](https://diary-cosmic-liard.vercel.app/en)
 
 ✨ This project demonstrates real‑world frontend architecture, API interaction, state management, UI/UX design and database integration.
 
