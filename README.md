@@ -39,10 +39,9 @@ The project includes dynamic animated components that can be used in user interf
 ---
 
 ### 🧩 masterComponent
-**masterComponent** is a UI component repository forked from an existing TS collection.  
-It contains reusable styled components and layout blocks to speed up interface development.
+**masterComponent** - Computer Store. The project focuses on teamwork, modular architecture, and responsive layouts.
 
-🔧 **Tech:** TypeScript, component architecture, React.js
+🔧 **Tech:** React.js, TypeScript, Redux, Material UI, CSS, GIT
 [Repository Link](https://github.com/Ilkarion/masterComponent)
 
 [DEMO-TRY](https://master-component.vercel.app/)
