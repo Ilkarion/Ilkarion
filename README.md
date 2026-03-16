@@ -27,7 +27,7 @@ I’m passionate about building **fast, clean, human-centered web apps**.
 ---
 
 ### 🎨 Random Animation
-**Random Animation** is a frontend visualization library focusing on smooth, visually appealing animations.  
+**Random Animation** is a frontend visualization web-site focusing on smooth, visually appealing animations.  
 The project includes dynamic animated components that can be used in user interfaces to enhance user engagement, such as interactive particle effects and procedural animations.
 
 🔧 **Tech:** TypeScript, GSAP & CSS animations, React.js 
