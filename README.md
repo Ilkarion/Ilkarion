@@ -76,7 +76,7 @@ I focus on **modern frontend development**, including:
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilkarion&show_icons=true&theme=tokyonight" />
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=10&theme=shadow_green)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=10&theme=shadow_green)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilkarion&layout=compact&theme=tokyonight&hide=c" />
 </p>
 
