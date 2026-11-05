@@ -1,5 +1,60 @@
 # Hi, I'm Illia 👋  
-### Frontend Developer | React • Next.js • TypeScript  • Node.js  • Supabase  
+
+### QA Engineer | Manual Testing · API Testing · Test Automation (Java, Selenium)
+
+I test web applications and I am looking for my QA role.
+
+I come from web development (React, Next.js, Node.js), so I understand how the frontend and backend work together, and where they can break.
+
+All projects below are personal projects.
+
+---
+
+## 🧪 QA Projects
+
+| Project | What I did | Tools |
+|---|---|---|
+| **[UI Test Automation: Diary Cosmic](https://github.com/Ilkarion/Your-Diary-Auto-testing)** | Built a UI automation framework with Page Object classes, screenshots on failure and Allure reports. GitHub Actions runs the tests and publishes the report. [Allure report](https://ilkarion.github.io/Your-Diary-Auto-testing/) | Java, Selenium, TestNG, Maven, Allure, GitHub Actions |
+| **[API Testing: Your Diary API](https://github.com/Ilkarion/APITesting_Your_diary)** | Created a Postman collection with 96 requests and JavaScript assertions. Tested cookie authentication and cross-user access. Wrote a test plan and bug reports. [Swagger UI](https://ilkarion.github.io/APITesting_Your_diary/) | Postman, JavaScript, REST, JSON, OpenAPI |
+| **[Manual QA: Allegro Sandbox](https://github.com/Ilkarion/allegro-sandbox-qa-manual)** | Wrote a test plan and a test basis. Designed and executed 65 test cases. Built test sets, a traceability matrix and a test report. | Jira, Xray, Chrome/Edge DevTools |
+
+The application under test is my own full-stack diary app:
+[Diary Cosmic (frontend)](https://github.com/Ilkarion/diary_cosmic) · [Backend](https://github.com/Ilkarion/your_book_backend) · [Live demo](https://diary-cosmic-liard.vercel.app)
+
+---
+
+## 🛠 Skills
+
+**Manual testing:** test plans, test cases, traceability, bug reports, boundary value, positive/negative and responsive testing
+
+**API testing:** REST, HTTP status codes, JSON, cookies and authorization checks
+
+**Automation:** Java, Selenium WebDriver, TestNG, Maven, Page Object Model, Allure, GitHub Actions
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-Report-orange?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Also:** JavaScript, TypeScript, React, Next.js, Node.js, Express
+
+---
+
+## 🔍 How I work
+
+- I write bug reports with clear steps, actual result and expected result.
+- I test negative and boundary cases, not only the happy path.
+- I debug unstable tests (for example stale element errors) and write down what I learned.
+- I keep documentation next to the tests, so another person can understand and run my work.
+
+---
+
+### Fullstack Developer | React • Next.js • TypeScript  • Node.js  • Supabase  
 
 I’m passionate about building **fast, clean, human-centered web apps**.  
 
