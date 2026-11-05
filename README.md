@@ -61,7 +61,7 @@ I’m passionate about building **fast, clean, human-centered web apps**.
 
 ---
 
-## Featured Projects
+## Additional Experience: Full-Stack Development projects
 
 ### 📘 Diary Cosmic
 **Diary Cosmic** is a full‑stack personal diary app with mood tracking, an interactive map of entries, and analytics. It showcases modern frontend + backend practices, including:
