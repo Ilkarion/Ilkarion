@@ -61,7 +61,7 @@ I’m passionate about building **fast, clean, human-centered web apps**.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📘 Diary Cosmic
 **Diary Cosmic** is a full‑stack personal diary app with mood tracking, an interactive map of entries, and analytics. It showcases modern frontend + backend practices, including:
@@ -77,11 +77,11 @@ I’m passionate about building **fast, clean, human-centered web apps**.
 
 [DEMO-TRY](https://diary-cosmic-liard.vercel.app/en)
 
-✨ This project demonstrates real‑world frontend architecture, API interaction, state management, UI/UX design and database integration.
+> This project demonstrates real‑world frontend architecture, API interaction, state management, UI/UX design and database integration.
 
 ---
 
-### 🎨 Random Animation
+### Random Animation
 **Random Animation** is a frontend visualization web-site focusing on smooth, visually appealing animations.  
 The project includes dynamic animated components that can be used in user interfaces to enhance user engagement, such as interactive particle effects and procedural animations.
 
@@ -90,10 +90,11 @@ The project includes dynamic animated components that can be used in user interf
 
 [DEMO-TRY](https://random-animation-ecru.vercel.app/)
 
-✨ Great example of mastering animation logic, DOM manipulation, rendering performance.
+> Great example of mastering animation logic, DOM manipulation, rendering performance.
+
 ---
 
-### 🧩 masterComponent
+### masterComponent
 **masterComponent** - Computer Store. The project focuses on teamwork, modular architecture, and responsive layouts.
 
 🔧 **Tech:** React.js, TypeScript, Redux, Material UI, CSS, GIT
