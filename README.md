@@ -103,14 +103,6 @@ The project includes dynamic animated components that can be used in user interf
 
 ---
 
-## 📌 Summary
-I focus on **modern frontend development**, including:
-- Responsive interfaces and animations  
-- State management and API communications  
-- Full‑stack awareness (integration with backend & database)  
-- Clean code with TypeScript and component‑based architecture
----
-
 ## 🛠 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
