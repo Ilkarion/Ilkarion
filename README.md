@@ -49,7 +49,7 @@ The application under test is my own full-stack diary app:
 
 - I write bug reports with clear steps, actual result and expected result.
 - I test negative and boundary cases, not only the happy path.
-- I debug unstable tests (for example stale element errors) and write down what I learned.
+- I debug unstable tests (for example stale element errors).
 - I keep documentation next to the tests, so another person can understand and run my work.
 
 ---
