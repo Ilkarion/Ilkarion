@@ -132,5 +132,5 @@ The project includes dynamic animated components that can be used in user interf
 
 ## 📫 Connect with me
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-one-gilt-66.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/illia-lariushyn-6a9314272/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/illia-l-6a9314272)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work2006success@gmail.com)
